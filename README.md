@@ -6,7 +6,7 @@
 
 Платформа: .NET Framework (Windows Forms)
 
-База даних: MySQL (ADO.NET)
+База даних: MySQL ADO.NET
 
 Графічний інтерфейс: Custom UI на базі System.Drawing.Drawing2D (градієнти, закруглені кути, динамічна верстка).
 
